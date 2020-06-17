@@ -3,5 +3,5 @@ Vue cli tailwindCss setup for projects vue.js
 
 ## Install
 ```bash
-  	vue add @arielscc/vue-cli-plugin-tailwindcss
-``
+vue add @arielscc/vue-cli-plugin-tailwindcss
+```
