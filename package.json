@@ -3,7 +3,18 @@
   "version": "1.0.0",
   "description": "Tailwind Css setup to your Vue.js project.",
   "main": "index.js",
-  "keywords": ["tailwind", "vue"],
+  "keywords": [
+    "tailwind",
+    "vue"
+  ],
   "author": "Ariel Chura <lf0ariel@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielscc/vue-cli-tailwind-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arielscc/vue-cli-tailwind-setup/issues"
+  },
+  "homepage": "https://github.com/arielscc/vue-cli-tailwind-setup#readme"
 }
